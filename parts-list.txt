@@ -1,0 +1,13 @@
+The following is an example parts lists using parts from digikey.com.
+
+Quantity  Part Number          Manufacturer Part Number  Description                      Unit Price  Extended Price
+--------  ----------           ------------------------  -----------                      ----------  --------------
+10        1276-2229-1-ND       CL10C220JB8NNWC           CAP CER 22PF 50V C0G/NP0 0603    0.02400     $0.24
+10        1276-1182-1-ND       CL10A105KP8NNNC           CAP CER 1UF 10V X5R 0603         0.02800     $0.28
+25        1276-1005-1-ND       CL10B104KO8NNNC           CAP CER 0.1UF 16V X7R 0603       0.01200     $0.30
+10        311-22GRCT-ND        RC0603JR-0722RL           RES SMD 22 OHM 5% 1/10W 0603     0.01000     $0.10
+10        311-10KGRCT-ND       RC0603JR-0710KL           RES SMD 10K OHM 5% 1/10W 0603    0.01000     $0.10
+3         ATMEGA32U4-AURCT-ND  ATMEGA32U4-AUR            IC MCU 8BIT 32KB FLASH 44TQFP    4.20000     $12.60
+3         478-8192-1-ND        F931A106KAA CAP           TANT 10UF 10V 10% 1206           0.31000     $0.93
+4         535-13466-1-ND       ABM8-16.000MHZ-7-1-U-T    CRYSTAL 16.0000MHZ 7PF SMD       0.48000     $1.92
+3         507-1802-1-ND        0ZCJ0050FF2G              PTC RESTTBLE 0.50A 8V CHIP 1206  0.13000     $0.39
